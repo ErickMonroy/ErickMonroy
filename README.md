@@ -6,7 +6,8 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 - Construir proyectos reales que aporten valor  
 - Participar en proyectos colaborativos y Hackathones  
 - Seguir creciendo como desarrollador con visión profesional  
- 
+
+ [![Gr�fico de Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=ErickMonroy&theme=github-dark)](https://github.com/ErickMonroy)
 ---
 
 ## Tecnologías que utilizo 🛠️ 
@@ -41,6 +42,5 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 ![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickMonroy&theme=github_dark)
 ![Top Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickMonroy&theme=github_dark)
-![Trofeos](https://github-profile-trophy.vercel.app/?username=ErickMonroy&theme=onedark&row=2)
 
 
