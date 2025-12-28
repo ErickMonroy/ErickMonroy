@@ -20,10 +20,11 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs)
 
 ### 🗄️ Bases de Datos
-![My Skills](https://skillicons.dev/icons?i=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![My Skills](https://skillicons.dev/icons?i=mongodb)
----
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 
