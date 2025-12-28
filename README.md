@@ -7,6 +7,10 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 - Participar en proyectos colaborativos y Hackathones  
 - Seguir creciendo como desarrollador con visión profesional  
 
+<div align="center">
+
+![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
+</div>
 ---
 
 ## 🛠️ Stack Tecnológico
