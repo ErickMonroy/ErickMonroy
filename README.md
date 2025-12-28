@@ -1,16 +1,18 @@
+<div align="center">
+
+![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
+</div>
+
 # Hola, soy Erick Monroy
 
-Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al Instituto Politécnico Nacional **(IPN)**, mtengo una especialización en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
+Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al Instituto Politécnico Nacional **(IPN)**, tengo una especialización en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
  
 ## Objetivos
 - Construir proyectos reales que aporten valor  
 - Participar en proyectos colaborativos y Hackathones  
 - Seguir creciendo como desarrollador con visión profesional  
 
-<div align="center">
 
-![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
-</div>
 ---
 
 ## 🛠️ Stack Tecnológico
