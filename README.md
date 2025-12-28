@@ -45,12 +45,11 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 ---
 
-## 📚 Actualmente trabajando en...
+## Actualmente trabajando en...
 - Expandir mis conocimientos a nuevas tecnologías de programación y BDs
 - Desarrollar proyectos académicos y personales  
-- Aprender buenas prácticas de desarrollo y control de versiones
+- Aprender la integración de IA en proyectos que se requiera la automatización
 
-## 📫 Conéctate conmigo
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/ErickMonroy)
+## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
 
