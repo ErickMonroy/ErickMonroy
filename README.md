@@ -3,11 +3,11 @@
 - Estudiante de la Licenciatura en Ciencias de la Informática  en **UPIICSA** – Instituto Politécnico Nacional **(IPN)** 
 - Especialización en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
  
-## 🚀 Objetivos
+## Objetivos🌟
 - Construir proyectos reales que aporten valor  
 - Participar en proyectos colaborativos y Hackathones  
 - Seguir creciendo como desarrollador con visión profesional  
-
+ 
 ---
 
 ## 🛠️ Tecnologías que utilizo
