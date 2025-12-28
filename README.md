@@ -38,6 +38,6 @@
 
 
 ## GitHub Statistics
-[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
-<br>
+[![ErickMonroy GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickMonroy&show_icons=true&theme=radical)]([https://github.com/Nishant1500?tab=overview](https://github.com/ErickMonroy))
+
 
