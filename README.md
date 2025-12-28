@@ -37,6 +37,10 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 
 ## GitHub Statistics
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=ErickMonroy&theme=onedark)](https://github.com/ErickMonroy)
+![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
+
+![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickMonroy&theme=github_dark)
+![Top Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickMonroy&theme=github_dark)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=ErickMonroy&theme=onedark&row=2)
 
 
