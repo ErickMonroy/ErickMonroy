@@ -61,5 +61,3 @@ Me especializo en desarrollar software y sistemas informáticos con el fin de cu
 - Email: monroyerickedms@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ErickMonroy )
-
