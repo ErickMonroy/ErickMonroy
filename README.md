@@ -20,9 +20,9 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs)
 
 ### 🗄️ Bases de Datos
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-
+![My Skills](https://skillicons.dev/icons?i=mongodb)
 ---
 
 ## 📊 Estadísticas de GitHub
