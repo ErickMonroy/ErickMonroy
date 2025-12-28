@@ -48,8 +48,12 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ## Actualmente trabajando en...
 - Expandir mis conocimientos a nuevas tecnologías de programación y BDs
 - Desarrollar proyectos académicos y personales  
-- Aprender la integración de IA en proyectos que se requiera la automatización
+- Integración de la IA en proyectos.
 
-## Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+
+## 📱 Redes Sociales
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu-usuario)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tu-perfil)
 
