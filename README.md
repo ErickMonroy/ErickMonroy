@@ -1,6 +1,6 @@
 # Hola, soy Erick Monroy
 
-Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al Instituto Politécnico Nacional **(IPN)**, me specializo en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
+Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al Instituto Politécnico Nacional **(IPN)**, me especializo en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
  
 ## Objetivos
 - Construir proyectos reales que aporten valor  
