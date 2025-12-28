@@ -40,7 +40,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 <div align="center">
 
-![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark&hide_border=true)
+![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
 
 | Estadísticas | Lenguajes más usados |
 |:---:|:---:|
