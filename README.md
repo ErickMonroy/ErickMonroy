@@ -21,7 +21,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 ### 🗄️ Bases de Datos y herramientas 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
