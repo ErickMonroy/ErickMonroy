@@ -2,10 +2,7 @@
 
 Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al Instituto Politécnico Nacional **(IPN)**, tengo una especialización en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
 
-<div align="center">
 
-![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
-</div>
  
 ## Objetivos
 - Construir proyectos reales que aporten valor  
@@ -40,6 +37,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 <div align="center">
 
 ![Racha de GitHub](https://streak-stats.demolab.com/?user=ErickMonroy&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickMonroy&theme=vue) | !
 
 | Estadísticas | Lenguajes más usados |
 |:---:|:---:|
