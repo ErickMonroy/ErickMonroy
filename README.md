@@ -12,7 +12,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,r,react)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,r,)
 
 
 
@@ -20,12 +20,8 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs)
 
 ### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-
-### 🎨 Todas mis Herramientas en un vistazo
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,r,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark&perline=7)
 
 ---
 
