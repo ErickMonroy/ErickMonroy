@@ -39,7 +39,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 | Estadísticas | Lenguajes más usados |
 |:---:|:---:|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickMonroy&theme=github_dark)| ![Top Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErickMonroy&theme=github_dark) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickMonroy&theme=github_dark)| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErickMonroy&theme=github_dark)| ![Lenguajes por Repositorio](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickMonroy&theme=github_dark&exclude=) |
 
 </div>
 
