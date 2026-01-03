@@ -14,15 +14,15 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes de Programación
+### Lenguajes de Programación
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,r,)
 
 
 
-### 📚 Frameworks y Librerías
+### Frameworks y Librerías
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs)
 
-### 🗄️ Bases de Datos y herramientas 
+### Bases de Datos y herramientas 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
