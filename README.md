@@ -15,7 +15,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes de Programación
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,r,)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,cpp,r,)
 
 
 
