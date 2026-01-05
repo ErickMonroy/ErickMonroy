@@ -1,8 +1,6 @@
-<div align="center">
-
-# Hola soy Erick Monroy
-
-</div>
+<h1 align="center">
+ Hola soy Erick Monroy
+</h1>
 <div align="justify">
 
 Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al **IPN**, tengo una especialización en Big Data y en BDs NoSQL. He tenido la oportunidad de trabajar en diversos lenguajes de programación y reforzar mis habilidades blandas y técnicas como es la gestión de proyectos.
