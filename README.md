@@ -1,14 +1,19 @@
-# Hola, soy Erick Monroy
+![Banner Programador](https://capsule-render.vercel.app/api?type=rect&color=gradient:0,00b4d8,0083b0&height=100&section=header&text=Hola%20soy%20Erick%20Monroy%20&fontSize=45&fontColor=ffffff&animation=)
+<div align="justify">
 
-Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al Instituto Politécnico Nacional **(IPN)**, tengo una especialización en el manejo y explotación de información (Big Data, BDs NoSQL y Minería de datos)
+Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al **IPN**, tengo una especialización en Big Data y en BDs NoSQL. He tenido la oportunidad de trabajar en diversos lenguajes de programación y reforzar mis habilidades blandas y técnicas como es la gestión de proyectos.
 
-
+</div>
  
 ## Objetivos
+- Crecer en mi ambito laboral
 - Construir proyectos reales que aporten valor  
-- Participar en proyectos colaborativos y Hackathones  
-- Seguir creciendo como desarrollador con visión profesional  
+- Participar en proyectos colaborativos y Hackathones
 
+## 🧩 Habilidades blandas
+- Comunicación efectiva
+- Resolución de problemas
+- Responsabilidad
 
 ---
 
@@ -16,8 +21,6 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 ### Lenguajes de Programación
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,cpp,r,)
-
-
 
 ### Frameworks y Librerías
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs)
@@ -31,11 +34,7 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-
-## 📊 Estadísticas de GitHub
-
 <div align="center">
-
 
 | Estadísticas | Lenguajes más usados |
 |:---:|:---:|
@@ -45,14 +44,14 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 
 ---
 
-## Actualmente trabajando en...
-- Expandir mis conocimientos a nuevas tecnologías de programación y BDs
-- Desarrollar proyectos académicos y personales  
-- Integración de la IA en proyectos.
+## Habilidades en desarrollo
+- Machine Learning y Deep Learning
+- Ciberseguridad
 
+<div align="center">
 
-## 📱 Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-daniel-monroy-santana-090025361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Redes Sociales
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickmonroys?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_erickmonroy_?igsh=eXI0MTVjNXBjdWc2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1b32Ua3g2V/)
 
+</div>
