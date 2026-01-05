@@ -1,4 +1,8 @@
-![Banner Programador](https://capsule-render.vercel.app/api?type=rect&color=gradient:0,00b4d8,0083b0&height=100&section=header&text=Hola%20soy%20Erick%20Monroy%20&fontSize=45&fontColor=ffffff&animation=)
+<div align="center">
+
+# Hola soy Erick Monroy
+
+</div>
 <div align="justify">
 
 Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al **IPN**, tengo una especialización en Big Data y en BDs NoSQL. He tenido la oportunidad de trabajar en diversos lenguajes de programación y reforzar mis habilidades blandas y técnicas como es la gestión de proyectos.
