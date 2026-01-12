@@ -18,7 +18,6 @@ Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**,
 - Responsabilidad
 
 ---
-
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes de Programación
