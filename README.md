@@ -7,8 +7,7 @@ Estudiante de Ciencias de la Informática | IPN - UPIICSA
 
 <div align="justify">
 
-Soy estudiante de la **Licenciatura en Ciencias de la Informática en UPIICSA (IPN)**, con formación en **Big Data y bases de datos NoSQL**.  
-Me enfoco en **construir proyectos funcionales**, bien estructurados y orientados a resolver problemas reales, aplicando buenas prácticas de desarrollo y control de versiones.
+Soy estudiante de la **Licenciatura en Ciencias de la Informática en UPIICSA (IPN)**, con formación en **Big Data y bases de datos NoSQL**. Me enfoco en **construir proyectos funcionales**, bien estructurados y orientados a resolver problemas reales, aplicando buenas prácticas de desarrollo y control de versiones.
 
 Me interesa integrarme a equipos donde pueda **seguir aprendiendo**, aportar valor desde el código y crecer profesionalmente en áreas como **desarrollo de sistemas, backend y datos**.
 </div>
