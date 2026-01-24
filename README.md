@@ -2,7 +2,7 @@
  Hola soy Erick Monroy
 </h1>
 <p align="center">
-Estudiante de Ciencias de la Informática | Desarrollo Web & Datos | IPN - UPIICSA
+Estudiante de Ciencias de la Informática | IPN - UPIICSA
 </p>
 
 <div align="justify">
