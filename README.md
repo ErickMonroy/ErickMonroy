@@ -1,30 +1,44 @@
 <h1 align="center">
  Hola soy Erick Monroy
 </h1>
+<p align="center">
+Estudiante de Ciencias de la Informática | Desarrollo Web & Datos | IPN - UPIICSA
+</p>
+
 <div align="justify">
 
-Soy estudiante de la Licenciatura en Ciencias de la Informática en **UPIICSA**, perteneciente al **IPN**, tengo una especialización en Big Data y en BDs NoSQL. He tenido la oportunidad de trabajar en diversos lenguajes de programación y reforzar mis habilidades blandas y técnicas como es la gestión de proyectos.
+Soy estudiante de la **Licenciatura en Ciencias de la Informática en UPIICSA (IPN)**, con formación en **Big Data y bases de datos NoSQL**.  
+Me enfoco en **construir proyectos funcionales**, bien estructurados y orientados a resolver problemas reales, aplicando buenas prácticas de desarrollo y control de versiones.
 
+Me interesa integrarme a equipos donde pueda **seguir aprendiendo**, aportar valor desde el código y crecer profesionalmente en áreas como **desarrollo de sistemas, backend y datos**.
 </div>
  
-## Objetivos
-- Crecer en mi ambito laboral
-- Construir proyectos reales que aporten valor  
-- Participar en proyectos colaborativos y Hackathones
+## 🎯Enfoque profesional 
+- Desarrollo de aplicaciones web y sistemas. 
+- Manejo y modelado de bases de datos
+- Construcción de proyectos académicos y personales escalables
+- Trabajo colaborativo y control de versiones con Git
 
 ## 🧩 Habilidades blandas
-- Comunicación efectiva
-- Resolución de problemas
-- Responsabilidad
+- Comunicación clara en entornos técnicos  
+- Resolución de problemas mediante análisis lógico  
+- Organización y responsabilidad en entregas  
+- Aprendizaje continuo y adaptación a nuevas tecnologías
 
 ---
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes de Programación
-![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,cpp,r,)
+![My Skills](https://skillicons.dev/icons?i=js,php,py,java,cpp,r,)
 
-### Frameworks y Librerías
-![My Skills](https://skillicons.dev/icons?i=react,nodejs)
+### Desarrollo Web
+![My Skills](https://skillicons.dev/icons?i=html,css,)
+
+### Frameworks
+![My Skills](https://skillicons.dev/icons?i=react)
+
+### Backend y servicios 
+![My Skills](https://skillicons.dev/icons?i=nodejs)
 
 ### Bases de Datos y herramientas 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
