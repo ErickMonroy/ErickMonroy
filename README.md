@@ -8,9 +8,7 @@ Estudiante de Ciencias de la Informática (7º semestre) | IPN - UPIICSA
 
 <div align="justify">
 
-Soy estudiante de informática con especialización en **Big Data y bases de datos NoSQL**, me enfoco en **construir proyectos funcionales**, bien estructurados y orientados a resolver problemas reales, aplicando buenas prácticas de desarrollo y control de versiones.
-
-Busco integrarme a equipos donde pueda **seguir aprendiendo**, aportar valor en mi puesto de trabajo y crecer profesionalmente en áreas como **desarrollo de sistemas, backend y análisis de datos**.
+Soy estudiante de informática con especialización en **Big Data y bases de datos NoSQL**, me enfoco en **construir proyectos funcionales**, bien estructurados y orientados a resolver problemas reales, aplicando buenas prácticas de desarrollo y control de versiones. Actualmente busco integrarme a equipos donde pueda **seguir aprendiendo**, aportar valor en mi puesto de trabajo y crecer profesionalmente en áreas como **desarrollo de sistemas, backend y análisis de datos**.
 </div>
  
 
