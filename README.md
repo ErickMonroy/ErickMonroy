@@ -13,7 +13,7 @@ Me interesa integrarme a equipos donde pueda **seguir aprendiendo**, aportar val
 </div>
  
 ## 🎯Enfoque profesional 
-- Desarrollo de aplicaciones web y sistemas. 
+- Desarrollo de sistemas. 
 - Manejo y modelado de bases de datos
 - Construcción de proyectos académicos y personales escalables
 - Trabajo colaborativo y control de versiones con Git
