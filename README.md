@@ -22,7 +22,7 @@ Soy estudiante de informática con especialización en **Big Data y bases de dat
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes de Programación
-![My Skills](https://skillicons.dev/icons?i=js,py,php,java,cpp,r)
+![My Skills](https://skillicons.dev/icons?i=js,php,java,cpp,r)
 
 
 ### Frontend
