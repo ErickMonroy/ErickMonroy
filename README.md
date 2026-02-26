@@ -24,7 +24,7 @@ Soy estudiante de séptimo semestre de la Lic. en Ciencias de la Informática, c
 ![My Skills](https://skillicons.dev/icons?i=js,php,java,cpp,r)
 
 
-### Frontend
+### Frontend Web
 ![My Skills](https://skillicons.dev/icons?i=html,css,react)
 
 ### Backend y Sistemas de Control de Versiones
@@ -38,13 +38,17 @@ Soy estudiante de séptimo semestre de la Lic. en Ciencias de la Informática, c
 
 
 ---
+### Certificaciones 
 
-## 🔹Proyectos destacados 
-- **CineStreaming:** `(React + Node.js + MongoDB)` <br>Plataforma de reseñas con sistema de recomendaciones basado en géneros favoritos.<br>https://github.com/ErickMonroy/CineStreaming
-- **Zapateria-analytics:** `(R/Shiny)` <br>Dashboard interactivo con análisis predictivo para optimizar rotación de inventario.  <br>https://github.com/ErickMonroy/Zapateria-analytics
-- **Start & Go:** `(PHP + JS + CSS + MySQL)` <br> Sistema web para gestión de escuela de manejo (desarrollo colaborativo). <br>https://github.com/ErickMonroy/StartGo
 
----
+<div align="center">
+
+
+
+| <a href="https://www.credly.com/badges/4e56358b-e134-434a-b007-9f33647046dc/public_url"><img src="https://images.credly.com/size/340x340/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" width="120"/></a><br/>**Google**<br/>**Ciberseguridad** | <a href="https://www.credly.com/badges/5a6a2288-ed20-4272-b1ee-c8b51c4599fc/public_url"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="120"/></a><br/>**Google**<br/>**Fundamentos de IA** |<a href="https://www.credly.com/badges/dc9327da-94db-4157-9ffb-5314eae408a5/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120"/></a><br/>**CISCO**<br/>**Introducción a la ciberseguridad**| <a href="https://www.credly.com/badges/34748923-2889-4c5a-96b2-d4d4c0c76196/public_url"><img src="https://images.credly.com/size/340x340/images/08aeec7e-bcc9-4ef8-a84e-1f3cf27ff5e8/image.png" width="120"/></a><br/>**HUAWEI**<br/>**Descripción general de la IA**| <a href="https://www.credly.com/badges/34748923-2889-4c5a-96b2-d4d4c0c76196/public_url"><img src="https://images.credly.com/size/340x340/images/42c51b42-7299-4d35-bd1f-44a3433aacad/image.png" width="120"/></a><br/>**HUAWEI**<br/>**Búsqueda e IA**|
+|:---:|:---:|:---:|:---:|:---:|
+----
+
 ## Actividad en GitHub
 
 <div align="center">
@@ -56,4 +60,6 @@ Soy estudiante de séptimo semestre de la Lic. en Ciencias de la Informática, c
 </div>
 <div align="center">
 
+
 </div>
+
