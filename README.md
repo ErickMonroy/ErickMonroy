@@ -2,14 +2,13 @@
  Hola soy Erick Monroy
 </h1>
 <p align="center">
-Estudiante de Ciencias de la Informática (7º semestre) | IPN - UPIICSA
+Estudiante de Lic. Ciencias de la Informática | UPIICSA - IPN
 <br>
 
 
 <div align="justify">
 
-Soy estudiante de informática con especialización en **Big Data y bases de datos NoSQL**, me enfoco en **construir proyectos funcionales**, bien estructurados y orientados a resolver problemas reales, aplicando buenas prácticas de desarrollo y control de versiones. Actualmente busco integrarme a equipos donde pueda **seguir aprendiendo**, aportar valor en mi puesto de trabajo y crecer profesionalmente en áreas como **desarrollo de sistemas, backend y análisis de datos**.
-</div>
+Soy estudiante de séptimo semestre de la Lic. en Ciencias de la Informática, cuento con especialización en **Big Data y bases de datos NoSQL**, mi  mayor enfoque es construir proyectos funcionales y bien estructurados que resuelvan problemas reales, aplicando buenas prácticas de desarrollo y control de versiones. Actualmente busco integrarme a equipos de trabajo donde pueda aplicar mis conocimientos y seguir aprendiendo.
  
 
 ## 🧩 Habilidades blandas
@@ -56,9 +55,5 @@ Soy estudiante de informática con especialización en **Big Data y bases de dat
 
 </div>
 <div align="center">
-
-## Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickmonroys?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_erickmonroy_?igsh=eXI0MTVjNXBjdWc2)
 
 </div>
