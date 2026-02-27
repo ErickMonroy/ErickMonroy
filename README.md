@@ -21,7 +21,7 @@ Soy estudiante de séptimo semestre de la Lic. en Ciencias de la Informática, c
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes de Programación
-![My Skills](https://skillicons.dev/icons?i=js,php,java,cpp,r)
+![My Skills](https://skillicons.dev/icons?i=js,php,py,java,cpp,r)
 
 
 ### Frontend Web
