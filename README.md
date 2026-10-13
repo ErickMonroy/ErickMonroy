@@ -8,7 +8,7 @@ Estudiante de Lic. Ciencias de la Informática | UPIICSA - IPN
 
 <div align="justify">
 
-Soy estudiante de séptimo semestre de la Lic. en Ciencias de la Informática, cuento con especialización en **Big Data y bases de datos NoSQL**, mi  mayor enfoque es construir proyectos funcionales y bien estructurados que resuelvan problemas reales, aplicando buenas prácticas de desarrollo y control de versiones. Actualmente busco integrarme a equipos de trabajo donde pueda aplicar mis conocimientos y seguir aprendiendo.
+Soy estudiante de octavo semestre de la Lic. en Ciencias de la Informática, cuento con especialización en **Big Data y bases de datos NoSQL**, mi  mayor enfoque es construir proyectos funcionales y bien estructurados que resuelvan problemas reales, aplicando buenas prácticas de desarrollo y control de versiones. Actualmente busco integrarme a equipos de trabajo donde pueda aplicar mis conocimientos y seguir aprendiendo.
  
 
 ## 🧩 Habilidades blandas
